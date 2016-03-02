@@ -1,0 +1,91 @@
+Report for Institution Code HSU, Resource hsu_wildlife_mammals
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 7
+Number of records retrieved in searches: 86
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Germany ; Times: 1
+	Country: France ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-08 ; Times: 1
+	Date: 2016-02-18 ; Times: 2
+	Date: 2016-02-26 ; Times: 1
+	Date: 2016-02-24 ; Times: 1
+	Date: 2016-02-12 ; Times: 1
+	Date: 2016-02-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "institutioncode:hsu" ; Times: 1
+	Query: "felis catus type:specimen (United States skull)" ; Times: 1
+	Query: "coati" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; institutioncode:HSU" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 512 download events in this period)
+Total number of records downloaded: 700
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Unknown ; Times: 18
+	Country: Mexico ; Times: 21
+	Country: Canada ; Times: 1
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 1
+	Date: 2016-02-18 ; Times: 7
+	Date: 2016-02-19 ; Times: 10
+	Date: 2016-02-12 ; Times: 2
+	Date: 2016-02-13 ; Times: 3
+	Date: 2016-02-10 ; Times: 3
+	Date: 2016-02-16 ; Times: 3
+	Date: 2016-02-17 ; Times: 2
+	Date: 2016-02-14 ; Times: 2
+	Date: 2016-02-15 ; Times: 1
+	Date: 2016-02-09 ; Times: 1
+	Date: 2016-02-22 ; Times: 2
+	Date: 2016-02-21 ; Times: 1
+	Date: 2016-02-27 ; Times: 1
+	Date: 2016-02-26 ; Times: 1
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-24 ; Times: 1
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-03 ; Times: 2
+	Date: 2016-02-02 ; Times: 2
+	Date: 2016-02-05 ; Times: 1
+	Date: 2016-02-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 18
+	Query: "genus:sorex (NOT institutioncode:USNM)" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "spermophilus tridecemlineatus" ; Times: 1
+	Query: "Delphinidae" ; Times: 1
+	Query: "Puma concolor" ; Times: 5
+	Query: "Bos taurus" ; Times: 1
+	Query: "puma concolor" ; Times: 8
+	Query: "ochotona princeps" ; Times: 1
+	Query: "Scapanus orarius" ; Times: 1
+	Query: "Puma Concolor" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "county:&#34;Hot Springs&#34; stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "genus:martes continent:north america" ; Times: 1
+
+
+End of report.
