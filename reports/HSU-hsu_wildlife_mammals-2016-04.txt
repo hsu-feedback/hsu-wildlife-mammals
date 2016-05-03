@@ -1,0 +1,110 @@
+Report for Institution Code HSU, Resource hsu_wildlife_mammals
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 198
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-15 ; Times: 1
+	Date: 2016-04-14 ; Times: 4
+	Date: 2016-04-20 ; Times: 2
+	Date: 2016-04-09 ; Times: 2
+	Date: 2016-04-22 ; Times: 1
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Dipodomys heermanni institutioncode:HSU" ; Times: 1
+	Query: "Peromyscus institutioncode:HSU" ; Times: 1
+	Query: "least weasel" ; Times: 1
+	Query: "specificepithet:crocuta genus:crocuta order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "white tailed deer usa" ; Times: 1
+	Query: "Arborimus year &gt;= 2010" ; Times: 1
+	Query: "Perognathus institutioncode:HSU" ; Times: 1
+	Query: "stateprovince:&#34;arizona&#34; (coati)" ; Times: 1
+	Query: "pronghorn" ; Times: 2
+	Query: "Dipodomys institutioncode:HSU" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 118 (out of 1312 download events in this period)
+Total number of records downloaded: 887
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 86
+	Country: Unknown ; Times: 21
+	Country: Portugal ; Times: 6
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 2
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-07 ; Times: 2
+	Date: 2016-04-06 ; Times: 10
+	Date: 2016-04-05 ; Times: 5
+	Date: 2016-04-04 ; Times: 2
+	Date: 2016-04-21 ; Times: 2
+	Date: 2016-04-20 ; Times: 6
+	Date: 2016-04-09 ; Times: 5
+	Date: 2016-04-08 ; Times: 2
+	Date: 2016-04-25 ; Times: 2
+	Date: 2016-04-24 ; Times: 4
+	Date: 2016-04-27 ; Times: 7
+	Date: 2016-04-26 ; Times: 4
+	Date: 2016-04-22 ; Times: 5
+	Date: 2016-04-18 ; Times: 1
+	Date: 2016-04-19 ; Times: 7
+	Date: 2016-04-14 ; Times: 14
+	Date: 2016-04-15 ; Times: 7
+	Date: 2016-04-16 ; Times: 4
+	Date: 2016-04-17 ; Times: 4
+	Date: 2016-04-10 ; Times: 1
+	Date: 2016-04-11 ; Times: 2
+	Date: 2016-04-12 ; Times: 7
+	Date: 2016-04-13 ; Times: 4
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-23 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "tamias striatus" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "type:specimen specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "sciurus aberti" ; Times: 1
+	Query: "type:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 85
+	Query: "Odocoileus" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "genus:Spilogale" ; Times: 1
+	Query: "Geomyidae" ; Times: 1
+	Query: "glaucomys" ; Times: 1
+	Query: "Sciurus niger AND preparations:skull" ; Times: 1
+	Query: "Sciurus carolinensis AND preparations:skull type:specimen" ; Times: 1
+	Query: "Sciurus griseus AND preparations:skull type:specimen" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "Leopardus" ; Times: 1
+	Query: "thomomys bottae" ; Times: 3
+	Query: "dipodomys deserti (nevada)" ; Times: 2
+	Query: "specificepithet:leucopus genus:Peromyscus continent:North America" ; Times: 1
+	Query: "order:cetacea (orca)" ; Times: 1
+	Query: "dipodomys deserti" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
