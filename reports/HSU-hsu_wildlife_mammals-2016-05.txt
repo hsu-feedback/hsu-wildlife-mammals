@@ -1,0 +1,62 @@
+Report for Institution Code HSU, Resource hsu_wildlife_mammals
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 5
+Number of records retrieved in searches: 17
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-29 ; Times: 1
+	Date: 2016-05-22 ; Times: 2
+	Date: 2016-05-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sus scrofa " ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; genus:nasua year &gt;= 1900 year &lt;= 2015" ; Times: 1
+	Query: "specificepithet:townsendii genus:Lepus year &gt;= 1990 year &lt;= 2016" ; Times: 1
+	Query: "genus:Lepus stateprovince:&#34;Nevada&#34; year &gt;= 1980 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:amoenus genus:Tamias institutioncode:HSU" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 327 download events in this period)
+Total number of records downloaded: 551
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-14 ; Times: 1
+	Date: 2016-05-13 ; Times: 2
+	Date: 2016-05-12 ; Times: 5
+	Date: 2016-05-05 ; Times: 2
+	Date: 2016-05-22 ; Times: 2
+	Date: 2016-05-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "Peromyscus" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "Marmota marmota" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "Canis type:specimen distance(location,geopoint(37.71859032558813,-95.44921875))&lt;2776004" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 2
+	Query: "order:Chiroptera county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "urocyon littoralis" ; Times: 1
+
+
+End of report.
