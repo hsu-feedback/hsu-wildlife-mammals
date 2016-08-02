@@ -1,0 +1,118 @@
+Report for Institution Code HSU, Resource hsu_wildlife_mammals
+Usage stats for July 2016, generated on 2016/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 32
+Number of records retrieved in searches: 516
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Japan ; Times: 6
+	Country: Unknown ; Times: 4
+	Country: Portugal ; Times: 3
+	Country: France ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-11 ; Times: 2
+	Date: 2016-07-10 ; Times: 2
+	Date: 2016-07-26 ; Times: 1
+	Date: 2016-07-15 ; Times: 1
+	Date: 2016-07-14 ; Times: 2
+	Date: 2016-07-25 ; Times: 2
+	Date: 2016-07-18 ; Times: 9
+	Date: 2016-07-08 ; Times: 2
+	Date: 2016-07-23 ; Times: 1
+	Date: 2016-07-28 ; Times: 5
+	Date: 2016-07-29 ; Times: 2
+	Date: 2016-07-06 ; Times: 1
+	Date: 2016-07-20 ; Times: 1
+	Date: 2016-07-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "41a910f3-db13-4520-a3b2-199edb4a32ea" ; Times: 1
+	Query: "institutioncode:hsu" ; Times: 2
+	Query: "ursus thibetanus" ; Times: 2
+	Query: "snake humboldt county" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Tamias stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "&#34;lasiurus blossevillii&#34;" ; Times: 1
+	Query: "Western red bat" ; Times: 2
+	Query: "specificepithet:erminea genus:Mustela stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Procyon lotor 1" ; Times: 7
+	Query: "Madoqua kirkii type:specimen" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 4
+	Query: "gbifdatasetid:41a910f3-db13-4520-a3b2-199edb4a32ea" ; Times: 2
+	Query: "Neovison vison 1" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 4
+	Query: "Rattus norvegicus 1" ; Times: 1
+	Query: "ammospermophilus leucurus leucurus locality:Hesperia" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 146 (out of 1219 download events in this period)
+Total number of records downloaded: 686
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Netherlands ; Times: 110
+	Country: Mexico ; Times: 5
+	Country: Portugal ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-11 ; Times: 10
+	Date: 2016-07-10 ; Times: 10
+	Date: 2016-07-13 ; Times: 11
+	Date: 2016-07-12 ; Times: 7
+	Date: 2016-07-15 ; Times: 4
+	Date: 2016-07-14 ; Times: 5
+	Date: 2016-07-17 ; Times: 7
+	Date: 2016-07-19 ; Times: 7
+	Date: 2016-07-18 ; Times: 9
+	Date: 2016-07-20 ; Times: 4
+	Date: 2016-07-07 ; Times: 9
+	Date: 2016-07-24 ; Times: 4
+	Date: 2016-07-25 ; Times: 3
+	Date: 2016-07-26 ; Times: 9
+	Date: 2016-07-27 ; Times: 4
+	Date: 2016-07-06 ; Times: 1
+	Date: 2016-07-21 ; Times: 5
+	Date: 2016-07-22 ; Times: 4
+	Date: 2016-07-23 ; Times: 1
+	Date: 2016-07-08 ; Times: 10
+	Date: 2016-07-09 ; Times: 9
+	Date: 2016-07-28 ; Times: 8
+	Date: 2016-07-29 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen specificepithet:novemcinctus genus:dasypus" ; Times: 1
+	Query: "marmota monax type:specimen" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "Suncus murinus type:specimen" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "&#34;sciurus carolinensis&#34;" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "dasypodidae" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 115
+	Query: "type:specimen genus:Perognathus stateprovince:&#34;Nevada&#34; year &gt;= 1951 year &lt;= 2016" ; Times: 1
+	Query: "family:dasypodidae" ; Times: 1
+	Query: "mammalia Mexico" ; Times: 4
+	Query: "Ochotona" ; Times: 1
+	Query: "Onychomys torridus New Mexico" ; Times: 1
+	Query: "Vulpes macrotis new mexico" ; Times: 1
+	Query: "perognathus" ; Times: 2
+	Query: "Cavia porcellus type:specimen" ; Times: 2
+	Query: "&#34;Santa Cruz Island&#34; and &#34;California&#34;" ; Times: 1
+	Query: "Vulpes New Mexico" ; Times: 1
+	Query: "lepus townsendii" ; Times: 1
+	Query: "Madoqua kirkii type:specimen" ; Times: 2
+	Query: "&#34;Santa Cruz Island&#34;" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis preparations:skin" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+
+
+End of report.
