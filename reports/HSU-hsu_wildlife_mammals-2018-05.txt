@@ -1,0 +1,88 @@
+Report for Institution Code HSU, Resource hsu_wildlife_mammals
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 59
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: India ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 1
+	Date: 2018-05-05 ; Times: 1
+	Date: 2018-05-10 ; Times: 1
+	Date: 2018-05-01 ; Times: 2
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-21 ; Times: 2
+	Date: 2018-05-24 ; Times: 2
+	Date: 2018-05-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen institutioncode:HSU" ; Times: 1
+	Query: "vntype:specimen class:Mammalia institutioncode:HSU" ; Times: 1
+	Query: "institutioncode:HSU" ; Times: 1
+	Query: "genus:Balaenoptera institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:lupus genus:Canis (dog OR domestic) institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "specificepithet:ochrogenys institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:Lateralis county:&#34;TRinity&#34;" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1980 year &lt;= 1989 institutioncode:HSU" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "specificepithet:Lateralis county:&#34;Trinity&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1178 download events in this period)
+Total number of records downloaded: 6311
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 10
+	Country: Germany ; Times: 4
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 1
+	Date: 2018-05-07 ; Times: 4
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-14 ; Times: 2
+	Date: 2018-05-18 ; Times: 2
+	Date: 2018-05-09 ; Times: 2
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-21 ; Times: 2
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-25 ; Times: 1
+	Date: 2018-05-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "vntype:specimen class:Mammalia institutioncode:HSU" ; Times: 1
+	Query: "class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "free-tailed bat vntype:specimen" ; Times: 1
+	Query: "Trichosurus vulpecula" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "chiroptera mexico" ; Times: 1
+	Query: "genus:Didelphis stateprovince:&#34;California&#34; preparations:skin" ; Times: 1
+	Query: "specificepithet:merriami genus:dipodomys county:&#34;Los angeles&#34;" ; Times: 1
+	Query: "callitrichidae" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "specificepithet:onca genus:panthera basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "african Elephant" ; Times: 3
+
+
+End of report.
