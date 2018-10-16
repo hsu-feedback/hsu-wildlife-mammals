@@ -1,0 +1,88 @@
+Report for Institution Code HSU, Resource hsu_wildlife_mammals
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 35
+Number of records retrieved in searches: 173
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: China ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-26 ; Times: 2
+	Date: 2017-12-05 ; Times: 6
+	Date: 2017-12-04 ; Times: 16
+	Date: 2017-12-07 ; Times: 1
+	Date: 2017-12-06 ; Times: 2
+	Date: 2017-12-01 ; Times: 1
+	Date: 2017-12-03 ; Times: 4
+	Date: 2017-12-12 ; Times: 2
+	Date: 2017-12-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Farallon Mammals NOT Mexico" ; Times: 1
+	Query: "Farallon Mus" ; Times: 1
+	Query: "specificepithet:penicillatus genus:Chaetodipus county:&#34;Riverside&#34; year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "specificepithet:crocuta genus:crocuta country:&#34;kenya&#34;" ; Times: 1
+	Query: "Farallon Mammals" ; Times: 5
+	Query: "Least Weasel" ; Times: 1
+	Query: "Farallon Mammals Mus" ; Times: 1
+	Query: "mountain lion" ; Times: 2
+	Query: "white tail deer" ; Times: 4
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "least weasel" ; Times: 1
+	Query: "yak" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus institutioncode:HSU" ; Times: 1
+	Query: "bos grunniens" ; Times: 2
+	Query: "specificepithet:crocuta genus:crocuta country:&#34;kenya&#34; institutioncode:HSU" ; Times: 2
+	Query: "Pekania pennanti" ; Times: 1
+	Query: "Farallon Mammals NOT Mexico NOT Argentina NOT MOra" ; Times: 1
+	Query: "Farallon Mammals NOT Mexico NOT Argentina" ; Times: 2
+	Query: "specificepithet:americanus genus:Ursus stateprovince:&#34;California&#34; country:&#34;United States&#34; year &gt;= 1931" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 674 download events in this period)
+Total number of records downloaded: 241
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-26 ; Times: 2
+	Date: 2017-12-04 ; Times: 1
+	Date: 2017-12-14 ; Times: 3
+	Date: 2017-12-15 ; Times: 2
+	Date: 2017-12-12 ; Times: 1
+	Date: 2017-12-13 ; Times: 2
+	Date: 2017-12-11 ; Times: 3
+	Date: 2017-12-08 ; Times: 1
+	Date: 2017-12-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "sylvilagus cunicularius" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus stateprovince:&#34;California&#34; country:&#34;United States&#34; year &gt;= 1931" ; Times: 1
+	Query: "Odobenus rosmarus vntype:specimen stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "sylvilagus audubonii" ; Times: 1
+	Query: "canis latrans stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Odobenus rosmarus vntype:specimen" ; Times: 1
+	Query: "vulpes macrotis mutica" ; Times: 1
+	Query: "brown bear" ; Times: 1
+	Query: "sorex vagrans" ; Times: 1
+	Query: "chipmunk" ; Times: 1
+	Query: "Sciurus aberti" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "Enhydra lutris vntype:specimen stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Tamiasciurus hudsonicus mappable:1" ; Times: 1
+	Query: "Microtus townsendii" ; Times: 1
+
+
+End of report.
