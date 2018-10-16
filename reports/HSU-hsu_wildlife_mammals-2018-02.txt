@@ -1,0 +1,165 @@
+Report for Institution Code HSU, Resource hsu_wildlife_mammals
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 58
+Number of records retrieved in searches: 579
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Denmark ; Times: 24
+	Country: Argentina ; Times: 7
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-15 ; Times: 7
+	Date: 2018-02-25 ; Times: 2
+	Date: 2018-02-26 ; Times: 1
+	Date: 2018-02-28 ; Times: 3
+	Date: 2018-02-18 ; Times: 4
+	Date: 2018-02-08 ; Times: 4
+	Date: 2018-02-03 ; Times: 19
+	Date: 2018-02-02 ; Times: 3
+	Date: 2018-02-01 ; Times: 2
+	Date: 2018-02-06 ; Times: 1
+	Date: 2018-02-04 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "Bassariscus and California" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:HSU:WildlifeMammals:883&#34;" ; Times: 4
+	Query: "&#34;microtus pennsylvanicus&#34; vntype:specimen stateprovince:&#34;Wisconsin&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Lasiurus blossevillii vntype:specimen country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:littoralis genus:Urocyon (zoo OR captive)" ; Times: 1
+	Query: "Tragelaphus angasii" ; Times: 1
+	Query: "lasiurus blossevillii" ; Times: 1
+	Query: "gbifdatasetid:41a910f3-db13-4520-a3b2-199edb4a32ea" ; Times: 7
+	Query: "iptrecordid:&#34;urn:catalog:HSU:WildlifeMammals:1277&#34;" ; Times: 2
+	Query: "specificepithet:elaphus genus:Cervus stateprovince:California" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinereoargenteus genus:Urocyon (zoo OR captive)" ; Times: 1
+	Query: "Bassariscus astutus and California" ; Times: 3
+	Query: "iptrecordid:&#34;urn:catalog:HSU:WildlifeMammals:1275&#34;" ; Times: 2
+	Query: "Loxodonta africana" ; Times: 3
+	Query: "genus:Cervus stateprovince:California" ; Times: 1
+	Query: "specificepithet:blossevillii genus:lasiurus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:yagouaroundi genus:puma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:HSU:WildlifeMammals:1612&#34;" ; Times: 4
+	Query: "Loxodonta africana africana" ; Times: 3
+	Query: "Equus asinus" ; Times: 2
+	Query: "specificepithet:imberbis genus:Tragelaphus preparations:Skull" ; Times: 1
+	Query: "institutioncode:HSU" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:HSU:WildlifeMammals:1276&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:littoralis genus:Urocyon institutioncode:HSU" ; Times: 1
+	Query: "Ringtail and California" ; Times: 2
+	Query: "genus:Otospermophilus stateprovince:&#34;California&#34; year &lt;= 1900" ; Times: 1
+	Query: "vntype:specimen specificepithet:yagouaroundi genus:Puma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:americana genus:Martes stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "&#34;mephitis mephitis&#34; vntype:specimen country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Lasiurus blossevillii vntype:specimen mappable:1" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "Equus asinus asinus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 77 (out of 1892 download events in this period)
+Total number of records downloaded: 7249
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: United States ; Times: 65
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 2
+	Date: 2018-02-15 ; Times: 2
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-22 ; Times: 2
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-11 ; Times: 1
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-13 ; Times: 2
+	Date: 2018-02-28 ; Times: 2
+	Date: 2018-02-09 ; Times: 1
+	Date: 2018-02-08 ; Times: 1
+	Date: 2018-02-02 ; Times: 5
+	Date: 2018-02-25 ; Times: 2
+	Date: 2018-02-01 ; Times: 50
+	Date: 2018-02-27 ; Times: 2
+	Date: 2018-02-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Peromyscus truei" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Ammospermophilus leucurus" ; Times: 2
+	Query: "Lasiurus blossevillii vntype:specimen country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 1
+	Query: "Spermophilus beecheyi" ; Times: 1
+	Query: "genus:castor" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "Microtus montanus" ; Times: 1
+	Query: "Peromyscus eremicus" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Canis lupus" ; Times: 3
+	Query: "specificepithet:rufus genus:Lynx country:&#34;mexico&#34;" ; Times: 1
+	Query: "Peromyscus californicus" ; Times: 1
+	Query: "Reithrodontomys megalotis" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Onychomys torridus" ; Times: 1
+	Query: "Dipodomys panamintinus" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 2
+	Query: "Thomomys talpoides" ; Times: 1
+	Query: "Bassariscus" ; Times: 2
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Lemmiscus curtatus" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "specificepithet:gapperi genus:myodes hasmass:1" ; Times: 1
+	Query: "Sylvicapra grimmia" ; Times: 1
+	Query: "Scalopus aquaticus" ; Times: 2
+	Query: "Tamias merriami" ; Times: 1
+	Query: "locality:Santa Rosa county:&#34;Sonoma&#34; stateprovince:&#34;California&#34; year &lt;= 1950" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "Peromyscus crinitus" ; Times: 1
+	Query: "Sylvilagus audubonii" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Thomomys bottae" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "puma" ; Times: 2
+	Query: "Dipodomys deserti" ; Times: 2
+	Query: "vntype:specimen specificepithet:rufus genus:Lynx country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:trimucronatus genus:lemmus hasmass:1" ; Times: 1
+	Query: "genus:Procyon stateprovince:&#34;California&#34; year &lt;= 1950" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "class:Mammalia institutioncode:HSU" ; Times: 2
+	Query: "Cervus nippon" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Cynomys ludovicianus" ; Times: 1
+	Query: "genus:Taxidea stateprovince:&#34;California&#34; year &lt;= 1950" ; Times: 1
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "Microtus californicus" ; Times: 2
+	Query: "vntype:specimen specificepithet:yagouaroundi genus:Puma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "&#34;microtus pennsylvanicus&#34; vntype:specimen stateprovince:&#34;Wisconsin&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "order:Chiroptera country:&#34;United States&#34;" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Myodes gapperi" ; Times: 2
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 1
+
+
+End of report.
