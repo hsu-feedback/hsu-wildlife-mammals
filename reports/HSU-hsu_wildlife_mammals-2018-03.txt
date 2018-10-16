@@ -1,0 +1,187 @@
+Report for Institution Code HSU, Resource hsu_wildlife_mammals
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 147
+Number of records retrieved in searches: 1206
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 119
+	Country: Unknown ; Times: 5
+	Country: United Kingdom ; Times: 5
+	Country: Denmark ; Times: 14
+	Country: Argentina ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-06 ; Times: 9
+	Date: 2018-03-07 ; Times: 19
+	Date: 2018-03-16 ; Times: 1
+	Date: 2018-03-15 ; Times: 2
+	Date: 2018-03-13 ; Times: 1
+	Date: 2018-03-12 ; Times: 1
+	Date: 2018-03-27 ; Times: 20
+	Date: 2018-03-31 ; Times: 1
+	Date: 2018-03-30 ; Times: 20
+	Date: 2018-03-19 ; Times: 4
+	Date: 2018-03-01 ; Times: 4
+	Date: 2018-03-02 ; Times: 4
+	Date: 2018-03-05 ; Times: 3
+	Date: 2018-03-28 ; Times: 11
+	Date: 2018-03-29 ; Times: 12
+	Date: 2018-03-26 ; Times: 20
+	Date: 2018-03-09 ; Times: 2
+	Date: 2018-03-25 ; Times: 3
+	Date: 2018-03-22 ; Times: 3
+	Date: 2018-03-23 ; Times: 2
+	Date: 2018-03-20 ; Times: 2
+	Date: 2018-03-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Perognathus institutioncode:HSU" ; Times: 3
+	Query: "specificepithet:fuscipes genus:Neotoma institutioncode:HSU" ; Times: 2
+	Query: "institutioncode:hsu" ; Times: 1
+	Query: "genus:Crocuta specificepithet:crocuta" ; Times: 2
+	Query: "genus:crocuta institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:nigripes genus:Mustela" ; Times: 2
+	Query: "Wildebeest" ; Times: 1
+	Query: "specificepithet:californicus genus:microtus institutioncode:HSU" ; Times: 3
+	Query: "genus:Aplodontia year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "genus:Mesocricetus specificepithet:auratus" ; Times: 5
+	Query: "genus:lontra institutioncode:HSU" ; Times: 3
+	Query: "specificepithet:nasua genus:Nasua" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "mongoose" ; Times: 1
+	Query: "specificepithet:townsendii genus:Scapanus family:Talpidae order:Soricomorpha institutioncode:HSU" ; Times: 1
+	Query: "gbifdatasetid:41a910f3-db13-4520-a3b2-199edb4a32ea" ; Times: 1
+	Query: "specificepithet:peruanum genus:Lagidium" ; Times: 1
+	Query: "Mustela nigripes year&gt;=1990 year&lt;=2015 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 5
+	Query: "specificepithet:littoralis genus:Urocyon hasmass:1" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:bendirii genus:sorex institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon institutioncode:HSU" ; Times: 3
+	Query: "pekania pennanti" ; Times: 1
+	Query: "genus:Leopardus specificepithet:pardalis" ; Times: 2
+	Query: "Flying squirrel skeleton" ; Times: 1
+	Query: "Bassariscus astutus institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:nigripes genus:mustela year&gt;=1900" ; Times: 1
+	Query: "specificepithet:rufa genus:Aplodontia institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:gracilis genus:spilogale" ; Times: 4
+	Query: "scientificname:mustela nigripes" ; Times: 2
+	Query: "genus:Canis specificepithet:mesomelas" ; Times: 5
+	Query: "iptrecordid:&#34;urn:catalog:HSU:WildlifeMammals:1718&#34;" ; Times: 4
+	Query: "specificepithet:griseus genus:Sciurus institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:beecheyi genus:Otospermophilus county:&#34;los angeles&#34;" ; Times: 1
+	Query: "specificepithet:gracilis genus:spilogale institutioncode:HSU" ; Times: 2
+	Query: "mountain beaver" ; Times: 1
+	Query: "genus:Bos specificepithet:taurus" ; Times: 2
+	Query: "specificepithet:gulo genus:gulo institutioncode:HSU" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 3
+	Query: "specificepithet:fuscus genus:Eptesicus institutioncode:HSU" ; Times: 1
+	Query: "genus:Chinchilla order:Rodentia class:Mammalia" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes (urban OR city)" ; Times: 1
+	Query: "specificepithet:bendirii genus:sorex" ; Times: 2
+	Query: "genus:Felis specificepithet:catus" ; Times: 2
+	Query: "genus:Myotis specificepithet:keenii" ; Times: 2
+	Query: "genus:Leontopithecus specificepithet:rosalia" ; Times: 7
+	Query: "genus:Saimiri specificepithet:sciureus" ; Times: 5
+	Query: "genus:Orcinus specificepithet:orca" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus institutioncode:HSU" ; Times: 1
+	Query: "Ovibos moschatus moschatus" ; Times: 5
+	Query: "genus:Aplodontia specificepithet:rufa" ; Times: 2
+	Query: "institutioncode:HSU" ; Times: 6
+	Query: "specificepithet:pardalis genus:Leopardus" ; Times: 1
+	Query: "genus:Diceros specificepithet:bicornis" ; Times: 2
+	Query: "specificepithet:nigripes genus:mustela" ; Times: 1
+	Query: "genus:lontra institutioncode:HSU haslength:1" ; Times: 1
+	Query: "specificepithet:tajacu genus:Pecari" ; Times: 1
+	Query: "genus:Phoca institutioncode:HSU" ; Times: 2
+	Query: "san bernardino kangaroo rat" ; Times: 1
+	Query: "specificepithet:gracilis genus:spilogale institutioncode:HSU haslength:1" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 8
+	Query: "genus:Eumops specificepithet:perotis" ; Times: 2
+	Query: "class:mammalia institutioncode:HSU basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Acinonyx specificepithet:jubatus" ; Times: 5
+	Query: "genus:Vulpes year &gt;= 1980 year &lt;= 1980" ; Times: 1
+	Query: "specificepithet:beecheyi genus:Otospermophilus county:&#34;kern&#34;" ; Times: 1
+	Query: "genus:Panthera specificepithet:pardus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 1284 download events in this period)
+Total number of records downloaded: 8261
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 42
+	Country: Argentina ; Times: 1
+	Country: Poland ; Times: 5
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 1
+	Date: 2018-03-02 ; Times: 2
+	Date: 2018-03-23 ; Times: 2
+	Date: 2018-03-16 ; Times: 1
+	Date: 2018-03-15 ; Times: 3
+	Date: 2018-03-04 ; Times: 1
+	Date: 2018-03-19 ; Times: 4
+	Date: 2018-03-28 ; Times: 8
+	Date: 2018-03-29 ; Times: 11
+	Date: 2018-03-26 ; Times: 3
+	Date: 2018-03-27 ; Times: 5
+	Date: 2018-03-24 ; Times: 3
+	Date: 2018-03-30 ; Times: 7
+	Date: 2018-03-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Perognathus institutioncode:HSU" ; Times: 1
+	Query: "institutioncode:hsu" ; Times: 1
+	Query: "specificepithet:rufa genus:Aplodontia institutioncode:HSU" ; Times: 2
+	Query: "vntype:specimen (pan troglodytes)" ; Times: 1
+	Query: "talpidae hasmass:1" ; Times: 1
+	Query: "specificepithet:townsendii genus:Scapanus family:Talpidae order:Soricomorpha institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon institutioncode:HSU" ; Times: 2
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 3
+	Query: "specificepithet:bendirii genus:sorex institutioncode:HSU" ; Times: 1
+	Query: "yellow-pine chipmunk" ; Times: 1
+	Query: "vntype:specimen family:Otariidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "soricidae hasmass:1" ; Times: 1
+	Query: "specificepithet:gracilis genus:spilogale" ; Times: 1
+	Query: "rodentia hasmass:1" ; Times: 2
+	Query: "Panthera onca" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Bassariscus astutus institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:beecheyi genus:Otospermophilus county:&#34;los angeles&#34;" ; Times: 1
+	Query: "specificepithet:gracilis genus:spilogale institutioncode:HSU" ; Times: 1
+	Query: "Pika" ; Times: 1
+	Query: "cricetidae hasmass:1" ; Times: 1
+	Query: "specificepithet:gulo genus:gulo institutioncode:HSU" ; Times: 1
+	Query: "vntype:specimen specificepithet:lutris genus:Enhydra basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:californicus genus:microtus institutioncode:HSU" ; Times: 3
+	Query: "specificepithet:fuscus genus:Eptesicus institutioncode:HSU" ; Times: 4
+	Query: "genus:Chinchilla order:Rodentia class:Mammalia" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 1
+	Query: "order:Cingulata preparations:skull" ; Times: 1
+	Query: "family:Felidae haslength:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus institutioncode:HSU" ; Times: 1
+	Query: "vntype:specimen family:Odobenidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:fuscipes genus:Neotoma institutioncode:HSU" ; Times: 1
+	Query: "genus:lontra institutioncode:HSU haslength:1" ; Times: 1
+	Query: "genus:Phoca institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon institutioncode:HSU" ; Times: 2
+	Query: "class:mammalia institutioncode:HSU basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:beecheyi genus:Otospermophilus county:&#34;kern&#34;" ; Times: 1
+
+
+End of report.
