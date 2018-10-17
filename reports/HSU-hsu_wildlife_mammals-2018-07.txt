@@ -1,0 +1,100 @@
+Report for Institution Code HSU, Resource hsu_wildlife_mammals
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 40
+Number of records retrieved in searches: 125
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 32
+	Country: China ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 7
+	Date: 2018-07-11 ; Times: 4
+	Date: 2018-07-10 ; Times: 2
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-16 ; Times: 1
+	Date: 2018-07-04 ; Times: 1
+	Date: 2018-07-05 ; Times: 1
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-21 ; Times: 2
+	Date: 2018-07-26 ; Times: 4
+	Date: 2018-07-27 ; Times: 1
+	Date: 2018-07-02 ; Times: 3
+	Date: 2018-07-03 ; Times: 6
+	Date: 2018-07-31 ; Times: 1
+	Date: 2018-07-25 ; Times: 1
+	Date: 2018-07-19 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "institutioncode:hsu" ; Times: 1
+	Query: "catalognumber:399 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:1245 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:517 institutioncode:HSU" ; Times: 1
+	Query: "Canis latrans institutioncode:HSU" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "catalognumber:1224 institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:littoralis genus:Urocyon (captive OR zoo)" ; Times: 1
+	Query: "specificepithet:littoralis genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon county:&#34;Santa Barbara&#34;" ; Times: 1
+	Query: "specificepithet:mesomelas genus:Canis (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "catalognumber:833 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:1263 institutioncode:HSU" ; Times: 1
+	Query: "HSU 1263" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "black footed ferret" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (captive OR zoo)" ; Times: 2
+	Query: "institutioncode:HSU" ; Times: 1
+	Query: "vntype:specimen specificepithet:lotor genus:procyon county:&#34;Santa Barbara&#34;" ; Times: 2
+	Query: "catalognumber:443 institutioncode:HSU" ; Times: 2
+	Query: "vntype:specimen specificepithet:lagopus genus:Vulpes family:Canidae (captive OR zoo)" ; Times: 1
+	Query: "mountain goat" ; Times: 2
+	Query: "catalognumber:410 institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "stephens kangaroo rat" ; Times: 1
+	Query: "county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34; institutioncode:HSU" ; Times: 1
+	Query: "genus:Taxidea stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 977 download events in this period)
+Total number of records downloaded: 45
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-10 ; Times: 2
+	Date: 2018-07-17 ; Times: 2
+	Date: 2018-07-16 ; Times: 2
+	Date: 2018-07-30 ; Times: 1
+	Date: 2018-07-19 ; Times: 1
+	Date: 2018-07-07 ; Times: 1
+	Date: 2018-07-02 ; Times: 1
+	Date: 2018-07-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "panthera onca" ; Times: 1
+	Query: "specificepithet:cinerea genus:neotoma stateprovince:&#34;california&#34; OR stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "stephens kangaroo rat" ; Times: 1
+	Query: "specificepithet:cinerea genus:neotoma haslength:1" ; Times: 1
+	Query: "genus:tamiasciurus hastissue:1" ; Times: 1
+	Query: "genus:Taxidea stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Canis latrans institutioncode:HSU" ; Times: 1
+	Query: "macropus eugenii" ; Times: 1
+
+
+End of report.
