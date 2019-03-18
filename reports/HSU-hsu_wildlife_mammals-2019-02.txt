@@ -1,0 +1,132 @@
+Report for Institution Code HSU, Resource hsu_wildlife_mammals
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 92
+Number of records retrieved in searches: 590
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 91
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-10 ; Times: 1
+	Date: 2019-02-02 ; Times: 2
+	Date: 2019-02-18 ; Times: 5
+	Date: 2019-02-03 ; Times: 15
+	Date: 2019-02-16 ; Times: 3
+	Date: 2019-02-13 ; Times: 16
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-25 ; Times: 5
+	Date: 2019-02-26 ; Times: 4
+	Date: 2019-02-27 ; Times: 8
+	Date: 2019-02-20 ; Times: 9
+	Date: 2019-02-14 ; Times: 3
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-23 ; Times: 7
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-28 ; Times: 3
+	Date: 2019-02-01 ; Times: 6
+	Date: 2019-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;Zimbabwe&#34; catalognumber:2628 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:219 institutioncode:HSU" ; Times: 2
+	Query: "stateprovince:&#34;alaska&#34; recordedby:hehnke" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "catalognumber:2656 institutioncode:HSU" ; Times: 4
+	Query: "country:&#34;Zimbabwe&#34; catalognumber:1700 institutioncode:HSU" ; Times: 1
+	Query: "lasiurus blossevillii" ; Times: 1
+	Query: "gbifdatasetid:41a910f3-db13-4520-a3b2-199edb4a32ea" ; Times: 3
+	Query: "catalognumber:720 institutioncode:HSU" ; Times: 1
+	Query: "country:&#34;Zimbabwe&#34; catalognumber:2676 institutioncode:HSU" ; Times: 1
+	Query: "country:&#34;Zimbabwe&#34; catalognumber:2627 institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:sabrinus genus:glaucomys county:&#34;humboldt&#34;" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; recordedby:faro" ; Times: 2
+	Query: "country:&#34;Zimbabwe&#34; catalognumber:2631 institutioncode:HSU" ; Times: 1
+	Query: "country:&#34;Zimbabwe&#34; catalognumber:2724 institutioncode:HSU" ; Times: 1
+	Query: "mountain beaver" ; Times: 1
+	Query: "catalognumber:1969 institutioncode:HSU" ; Times: 2
+	Query: "Ochotona princeps" ; Times: 12
+	Query: "Glaucomys sabrinus institutioncode:HSU" ; Times: 2
+	Query: "country:&#34;Zimbabwe&#34; catalognumber:2644 institutioncode:HSU" ; Times: 1
+	Query: "country:&#34;Zimbabwe&#34; institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:1388 institutioncode:HSU" ; Times: 2
+	Query: "locality:sapsar stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "country:&#34;Zimbabwe&#34; catalognumber:2629 institutioncode:HSU" ; Times: 2
+	Query: "2977 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:2449 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:2879 institutioncode:HSU" ; Times: 2
+	Query: "country:&#34;Zimbabwe&#34; catalognumber:2870 institutioncode:HSU" ; Times: 1
+	Query: "2892 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:146 institutioncode:HSU" ; Times: 3
+	Query: "specificepithet:merriami genus:tamias institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:2924 institutioncode:HSU" ; Times: 2
+	Query: "2891 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:220 institutioncode:HSU" ; Times: 1
+	Query: "skull genus:Vulpes family:Canidae (zoo OR captive) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "country:&#34;Zimbabwe&#34; catalognumber:2630 institutioncode:HSU" ; Times: 1
+	Query: "institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:frenata genus:Mustela institutioncode:HSU" ; Times: 1
+	Query: "2893 institutioncode:HSU" ; Times: 1
+	Query: "monkey institutioncode:HSU" ; Times: 1
+	Query: "country:&#34;Zimbabwe&#34; catalognumber:2673 institutioncode:HSU" ; Times: 2
+	Query: "country:&#34;Zimbabwe&#34; catalognumber:2632 institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:blossevillii genus:Lasiurus" ; Times: 2
+	Query: "catalognumber:3065 institutioncode:HSU" ; Times: 2
+	Query: "california black bear" ; Times: 1
+	Query: "country:&#34;Zimbabwe&#34; catalognumber:2626 institutioncode:HSU" ; Times: 2
+	Query: "stateprovince:&#34;alaska&#34; recordedby:phillips year &gt;= 1976 year &lt;= 1976" ; Times: 1
+	Query: "catalognumber:724 institutioncode:HSU" ; Times: 5
+	Query: "mountain lion" ; Times: 3
+	Query: "catalognumber:2547 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:2492 institutioncode:HSU" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 1227 download events in this period)
+Total number of records downloaded: 223
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-02 ; Times: 1
+	Date: 2019-02-25 ; Times: 4
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-14 ; Times: 7
+	Date: 2019-02-17 ; Times: 2
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-19 ; Times: 3
+	Date: 2019-02-28 ; Times: 1
+	Date: 2019-02-21 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "porcupine" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela institutioncode:HSU" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 1
+	Query: "specificepithet:macrotis genus:vulpes stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Glaucomys sabrinus institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sylvilagus bachmani" ; Times: 1
+	Query: "Panthera onca" ; Times: 6
+	Query: "Vulpes velox" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "canis mesomelas" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "orcinus orca" ; Times: 2
+	Query: "panthera onca" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Lepus alleni" ; Times: 2
+	Query: "Puma concolor" ; Times: 1
+
+
+End of report.
