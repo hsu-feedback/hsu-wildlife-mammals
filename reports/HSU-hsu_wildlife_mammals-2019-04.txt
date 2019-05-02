@@ -1,0 +1,230 @@
+Report for Institution Code HSU, Resource hsu_wildlife_mammals
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 242
+Number of records retrieved in searches: 711
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 7
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 227
+	Country: Vietnam ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 21
+	Date: 2019-04-19 ; Times: 28
+	Date: 2019-04-18 ; Times: 6
+	Date: 2019-04-23 ; Times: 2
+	Date: 2019-04-12 ; Times: 2
+	Date: 2019-04-11 ; Times: 25
+	Date: 2019-04-17 ; Times: 3
+	Date: 2019-04-16 ; Times: 4
+	Date: 2019-04-14 ; Times: 6
+	Date: 2019-04-30 ; Times: 21
+	Date: 2019-04-02 ; Times: 8
+	Date: 2019-04-03 ; Times: 2
+	Date: 2019-04-22 ; Times: 25
+	Date: 2019-04-05 ; Times: 7
+	Date: 2019-04-06 ; Times: 1
+	Date: 2019-04-07 ; Times: 5
+	Date: 2019-04-01 ; Times: 2
+	Date: 2019-04-24 ; Times: 20
+	Date: 2019-04-25 ; Times: 4
+	Date: 2019-04-29 ; Times: 7
+	Date: 2019-04-08 ; Times: 28
+	Date: 2019-04-09 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:3238 institutioncode:HSU" ; Times: 3
+	Query: "catalognumber:1860 institutioncode:HSU" ; Times: 4
+	Query: "hsu 1245" ; Times: 2
+	Query: "hsu 1244" ; Times: 3
+	Query: "catalognumber:517 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:1747 institutioncode:HSU" ; Times: 2
+	Query: "&#34;heady ashburn&#34;" ; Times: 1
+	Query: "catalognumber:1886 institutioncode:HSU" ; Times: 4
+	Query: "catalognumber:1970 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:738 institutioncode:HSU" ; Times: 4
+	Query: "catalognumber:1900 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:750 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:724 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:1892 institutioncode:HSU" ; Times: 1
+	Query: "Alces americanus" ; Times: 1
+	Query: "locality:state game farm county:&#34;sacramento&#34;" ; Times: 1
+	Query: "ferret" ; Times: 1
+	Query: "long-tailed weasel" ; Times: 2
+	Query: "catalognumber:1375 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:3248 institutioncode:HSU" ; Times: 3
+	Query: "catalognumber:1879 institutioncode:HSU" ; Times: 2
+	Query: "county:&#34;santa barbara&#34; institutioncode:HSU" ; Times: 1
+	Query: "recordedby:genelly year &gt;= 1958 year &lt;= 1958 month &gt;= 10 month &lt;= 11" ; Times: 1
+	Query: "catalognumber:2146 institutioncode:HSU" ; Times: 4
+	Query: "catalognumber:1672 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:1604 institutioncode:HSU" ; Times: 1
+	Query: "Susan Sferra" ; Times: 1
+	Query: "catalognumber:1594 institutioncode:HSU" ; Times: 1
+	Query: "county:&#34;sacramento&#34; recordedby:Hawes" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 6
+	Query: "catalognumber:751 institutioncode:HSU" ; Times: 2
+	Query: "county:&#34;ventura&#34; institutioncode:HSU" ; Times: 1
+	Query: "south san francisco bay national wildlife refuge" ; Times: 1
+	Query: "catalognumber:2613 institutioncode:HSU" ; Times: 1
+	Query: "hsu 1224" ; Times: 1
+	Query: "specificepithet:niger genus:sciurus locality:eglin stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "catalognumber:2182 institutioncode:HSU" ; Times: 1
+	Query: "county:&#34;los angeles&#34; institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:1840 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:1519 institutioncode:HSU" ; Times: 1
+	Query: "locality:ferndale recordedby:thurber" ; Times: 6
+	Query: "locality:ferndale county:&#34;san bernardino&#34;" ; Times: 3
+	Query: "catalognumber:2702 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:2546 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:150 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:1729 institutioncode:HSU" ; Times: 2
+	Query: "hsu 2149" ; Times: 2
+	Query: "catalognumber:1561 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:2106 institutioncode:HSU" ; Times: 1
+	Query: "locality:ferndale recordedby:Thurber" ; Times: 1
+	Query: "catalognumber:2707 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:2713 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:2103 institutioncode:HSU" ; Times: 4
+	Query: "institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:744 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:2540 institutioncode:HSU" ; Times: 2
+	Query: "locality:beleny ranch" ; Times: 3
+	Query: "catalognumber:2293 institutioncode:HSU" ; Times: 2
+	Query: "Glaucomys sabrinus institutioncode:HSU" ; Times: 3
+	Query: "catalognumber:723 institutioncode:HSU" ; Times: 1
+	Query: "mountain lion" ; Times: 2
+	Query: "recordedby:tamburelli" ; Times: 1
+	Query: "catalognumber:1862 institutioncode:HSU" ; Times: 2
+	Query: "&#34;point rock&#34; &#34;Wyoming&#34;" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "catalognumber:602 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:1266 institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:mephitis genus:mephitis county:&#34;Humboldt&#34;" ; Times: 1
+	Query: "catalognumber:1878 institutioncode:HSU" ; Times: 1
+	Query: "locality:ferndale county:&#34;san bernardino&#34; recordedby:thurber" ; Times: 1
+	Query: "recordedby:Hawes institutioncode:HSU" ; Times: 2
+	Query: "yak" ; Times: 1
+	Query: "catalognumber:1 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:2373 institutioncode:HSU" ; Times: 2
+	Query: "HSU 5637" ; Times: 3
+	Query: "genus:Spilogale institutioncode:HSU" ; Times: 1
+	Query: "mustela nigripes" ; Times: 2
+	Query: "catalognumber:2381 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:2127 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:2042 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:1786 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:1893 institutioncode:HSU" ; Times: 1
+	Query: "county:&#34;san bernardino&#34; recordedby:thurber" ; Times: 3
+	Query: "catalognumber:1297 institutioncode:HSU" ; Times: 4
+	Query: "catalognumber:2586 institutioncode:HSU" ; Times: 2
+	Query: "&#34;south san francisco bay national wildlife refuge&#34;" ; Times: 1
+	Query: "snowshoe hare" ; Times: 1
+	Query: "stateprovince:&#34;wyoming&#34; recordedby:tamburelli" ; Times: 1
+	Query: "catalognumber:168 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:2619 institutioncode:HSU" ; Times: 5
+	Query: "catalognumber:1761 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:1335 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:1856 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:1099 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:2286 institutioncode:HSU" ; Times: 6
+	Query: "locality:State Game Farm institutioncode:HSU" ; Times: 2
+	Query: "genus:Mephitis institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:1888 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:1881 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:1222 institutioncode:HSU" ; Times: 2
+	Query: "hsu 1263" ; Times: 2
+	Query: "catalognumber:1885 institutioncode:HSU" ; Times: 2
+	Query: "beleny" ; Times: 1
+	Query: "andreuccetti" ; Times: 1
+	Query: "catalognumber:2502 institutioncode:HSU" ; Times: 11
+	Query: "puma yagouaroundi" ; Times: 4
+	Query: "hsu 1336" ; Times: 3
+	Query: "catalognumber:614 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:1591 institutioncode:HSU" ; Times: 2
+	Query: "Lasiurus blossevillii mappable:1" ; Times: 3
+	Query: "&#34;point rock&#34;" ; Times: 1
+	Query: "locality:beleny ranch institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:2109 institutioncode:HSU" ; Times: 3
+	Query: "catalognumber:2536 institutioncode:HSU" ; Times: 2
+	Query: "locality:Ferndale recordedby:Thurber" ; Times: 2
+	Query: "catalognumber:2102 institutioncode:HSU" ; Times: 4
+	Query: "county:&#34;san bernardino&#34; recordedby:herron" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "catalognumber:1854 institutioncode:HSU" ; Times: 4
+	Query: "catalognumber:1884 institutioncode:HSU" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 1263 download events in this period)
+Total number of records downloaded: 763
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 34
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-18 ; Times: 10
+	Date: 2019-04-05 ; Times: 2
+	Date: 2019-04-10 ; Times: 3
+	Date: 2019-04-17 ; Times: 5
+	Date: 2019-04-16 ; Times: 2
+	Date: 2019-04-30 ; Times: 1
+	Date: 2019-04-06 ; Times: 1
+	Date: 2019-04-02 ; Times: 13
+	Date: 2019-04-25 ; Times: 1
+	Date: 2019-04-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Puma" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "Northern grasshopper mouse" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "Didelphis virginiana year &gt;= 1970" ; Times: 1
+	Query: "Myotis yumanensis" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "Myotis californicus" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 2
+	Query: "specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Otospermophilus beecheyi" ; Times: 1
+	Query: "specificepithet:concolor genus:puma" ; Times: 1
+	Query: "specificepithet:canadensis genus:Ovis" ; Times: 1
+	Query: "Alces americanus" ; Times: 2
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Myotis volans" ; Times: 1
+	Query: "long-tailed weasel" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "specificepithet:americana genus:Antilocapra" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "Myotis keenii" ; Times: 1
+	Query: "california ground squirrel" ; Times: 1
+	Query: "snowshoe hare" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "EUMOPS PEROTIS" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "Parastrellus hesperus" ; Times: 1
+	Query: "Myodes californicus" ; Times: 1
+	Query: "specificepithet:bendirii genus:Sorex hasmass:1" ; Times: 1
+
+
+End of report.
