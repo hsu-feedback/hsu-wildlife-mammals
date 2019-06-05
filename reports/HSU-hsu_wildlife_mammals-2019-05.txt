@@ -1,0 +1,110 @@
+Report for Institution Code HSU, Resource hsu_wildlife_mammals
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 50
+Number of records retrieved in searches: 118
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 45
+	Country: Brazil ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-26 ; Times: 1
+	Date: 2019-05-21 ; Times: 1
+	Date: 2019-05-20 ; Times: 1
+	Date: 2019-05-23 ; Times: 1
+	Date: 2019-05-22 ; Times: 1
+	Date: 2019-05-29 ; Times: 4
+	Date: 2019-05-28 ; Times: 1
+	Date: 2019-05-19 ; Times: 1
+	Date: 2019-05-09 ; Times: 3
+	Date: 2019-05-08 ; Times: 1
+	Date: 2019-05-07 ; Times: 10
+	Date: 2019-05-06 ; Times: 7
+	Date: 2019-05-05 ; Times: 1
+	Date: 2019-05-13 ; Times: 6
+	Date: 2019-05-30 ; Times: 2
+	Date: 2019-05-02 ; Times: 2
+	Date: 2019-05-01 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "fresno kangaroo rat" ; Times: 1
+	Query: "catalognumber:3187 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:1609 institutioncode:HSU" ; Times: 1
+	Query: "red tree vole" ; Times: 2
+	Query: "Black-tailed Jack Rabbit" ; Times: 1
+	Query: "Kobus vardonii" ; Times: 3
+	Query: "&#34;Zambia&#34; institutioncode:HSU" ; Times: 2
+	Query: "ocelot" ; Times: 2
+	Query: "specificepithet:columbianus genus:Urocitellus" ; Times: 1
+	Query: "catalognumber:412 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:419 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:1734 institutioncode:HSU" ; Times: 1
+	Query: "kobus vardonii" ; Times: 1
+	Query: "catalognumber:264 institutioncode:HSU" ; Times: 1
+	Query: "EAR 5185" ; Times: 2
+	Query: "EAR 5182" ; Times: 1
+	Query: "catalognumber:2373 institutioncode:HSU" ; Times: 3
+	Query: "genus:antilocapra stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "catalognumber:555 institutioncode:HSU" ; Times: 1
+	Query: "Mitkof island family:canidae stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "catalognumber:2127 institutioncode:HSU" ; Times: 6
+	Query: "EAR 5169" ; Times: 1
+	Query: "catalognumber:679 institutioncode:HSU" ; Times: 2
+	Query: "Lasiurus blossevillii mappable:1" ; Times: 1
+	Query: "catalognumber:1865 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:1761 institutioncode:HSU" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 4
+	Query: "catalognumber:725 institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:fuscipes genus:Neotoma stateprovince:&#34;California&#34; hasmass:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 940 download events in this period)
+Total number of records downloaded: 167
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 1
+	Date: 2019-05-26 ; Times: 3
+	Date: 2019-05-21 ; Times: 1
+	Date: 2019-05-23 ; Times: 1
+	Date: 2019-05-06 ; Times: 2
+	Date: 2019-05-08 ; Times: 1
+	Date: 2019-05-07 ; Times: 1
+	Date: 2019-05-11 ; Times: 2
+	Date: 2019-05-14 ; Times: 1
+	Date: 2019-05-15 ; Times: 1
+	Date: 2019-05-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "arborimus pomo" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "specificepithet:pardalis genus:leopardus" ; Times: 1
+	Query: "specificepithet:merriami genus:Tamias" ; Times: 1
+	Query: "specificepithet:onca genus:panthera" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "&#34;*Urocitellus columbianus&#34;" ; Times: 1
+
+
+End of report.
