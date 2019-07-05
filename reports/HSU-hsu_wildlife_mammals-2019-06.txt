@@ -1,0 +1,154 @@
+Report for Institution Code HSU, Resource hsu_wildlife_mammals
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 56
+Number of records retrieved in searches: 407
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 50
+	Country: Australia ; Times: 5
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-24 ; Times: 3
+	Date: 2019-06-27 ; Times: 2
+	Date: 2019-06-28 ; Times: 1
+	Date: 2019-06-07 ; Times: 5
+	Date: 2019-06-04 ; Times: 4
+	Date: 2019-06-05 ; Times: 2
+	Date: 2019-06-11 ; Times: 18
+	Date: 2019-06-10 ; Times: 18
+	Date: 2019-06-12 ; Times: 2
+	Date: 2019-06-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mountain goat" ; Times: 3
+	Query: "genus:Crocuta specificepithet:crocuta" ; Times: 2
+	Query: "genus:Lepus specificepithet:alleni" ; Times: 1
+	Query: "genus:Mesocricetus specificepithet:auratus" ; Times: 1
+	Query: "genus:Spilogale specificepithet:gracilis" ; Times: 1
+	Query: "genus:Felis specificepithet:catus" ; Times: 1
+	Query: "gbifdatasetid:41a910f3-db13-4520-a3b2-199edb4a32ea" ; Times: 2
+	Query: "genus:Leontopithecus specificepithet:rosalia" ; Times: 2
+	Query: "genus:Leopardus specificepithet:pardalis" ; Times: 1
+	Query: "genus:Nasua specificepithet:nasua" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;maine&#34; institutioncode:HSU" ; Times: 1
+	Query: "ursus thibetanus" ; Times: 2
+	Query: "genus:Canis specificepithet:mesomelas" ; Times: 2
+	Query: "genus:Antilocapra specificepithet:americana" ; Times: 1
+	Query: "MOUNTAIN LION" ; Times: 2
+	Query: "class:mammalia country:&#34;kenya&#34; institutioncode:HSU" ; Times: 1
+	Query: "(ursus thibetanus)" ; Times: 1
+	Query: "asiatic black bear" ; Times: 2
+	Query: "white tail deer" ; Times: 3
+	Query: "genus:Aplodontia specificepithet:rufa" ; Times: 2
+	Query: "genus:Diceros specificepithet:bicornis" ; Times: 2
+	Query: "genus:Myotis specificepithet:keenii" ; Times: 1
+	Query: "specificepithet:merriami genus:tamias class:mammalia institutioncode:HSU" ; Times: 1
+	Query: "genus:Redunca" ; Times: 1
+	Query: "genus:Orcinus specificepithet:orca" ; Times: 2
+	Query: "yellow bellied marmot" ; Times: 2
+	Query: "genus:Cavia specificepithet:porcellus" ; Times: 1
+	Query: "mountain lion" ; Times: 3
+	Query: "genus:Panthera specificepithet:pardus" ; Times: 2
+	Query: "Mesocricetus auratus" ; Times: 1
+	Query: "genus:Lepus specificepithet:townsendii" ; Times: 1
+	Query: "genus:Myocastor specificepithet:coypus" ; Times: 1
+	Query: "genus:Eumops specificepithet:perotis" ; Times: 1
+	Query: "genus:Acinonyx specificepithet:jubatus" ; Times: 1
+	Query: "genus:Alcelaphus  specificepithet:buselaphus" ; Times: 1
+	Query: "genus:Bassariscus specificepithet:astutus" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "genus:Chinchilla specificepithet:lanigera" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 90 (out of 1182 download events in this period)
+Total number of records downloaded: 1895
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 84
+	Country: Denmark ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-19 ; Times: 1
+	Date: 2019-06-18 ; Times: 1
+	Date: 2019-06-08 ; Times: 5
+	Date: 2019-06-30 ; Times: 1
+	Date: 2019-06-06 ; Times: 14
+	Date: 2019-06-07 ; Times: 22
+	Date: 2019-06-04 ; Times: 25
+	Date: 2019-06-05 ; Times: 9
+	Date: 2019-06-03 ; Times: 5
+	Date: 2019-06-13 ; Times: 1
+	Date: 2019-06-10 ; Times: 1
+	Date: 2019-06-28 ; Times: 1
+	Date: 2019-06-12 ; Times: 1
+	Date: 2019-06-26 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "sea otter" ; Times: 2
+	Query: "black bear" ; Times: 2
+	Query: "Odocoileus hemionus columbianus" ; Times: 1
+	Query: "mouse deer" ; Times: 1
+	Query: "marmot" ; Times: 2
+	Query: "Alces alces" ; Times: 1
+	Query: "gray wolf" ; Times: 1
+	Query: "yellow bellied marmot" ; Times: 2
+	Query: "Opossum" ; Times: 1
+	Query: "beaver oregon" ; Times: 1
+	Query: "white tailed deer" ; Times: 1
+	Query: "specificepithet:gapperi genus:Myodes" ; Times: 1
+	Query: "bobcat" ; Times: 3
+	Query: "pronghorn" ; Times: 1
+	Query: "river otter" ; Times: 1
+	Query: "jackal" ; Times: 2
+	Query: "Puma concolor" ; Times: 3
+	Query: "raccoon continent:north america" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "Castor canadensis canadensis" ; Times: 1
+	Query: "field vole" ; Times: 2
+	Query: "red fox" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "ursus thibetanus" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "Ursus americanus" ; Times: 2
+	Query: "specificepithet:princeps genus:Ochotona year &gt;= 1956 year &lt;= 1975" ; Times: 1
+	Query: "continent:North America (wolf canis lupus)" ; Times: 1
+	Query: "north american marten" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "Pika" ; Times: 4
+	Query: "Canis lupus familiaris" ; Times: 1
+	Query: "white tail deer" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 2
+	Query: "armadillo" ; Times: 1
+	Query: "flying squirrel" ; Times: 3
+	Query: "genus:Tamiasciurus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "ursus americanus" ; Times: 2
+	Query: "kangaroo rat" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 1
+	Query: "jaguar" ; Times: 2
+	Query: "pika" ; Times: 13
+	Query: "mountain lion" ; Times: 2
+	Query: "castor canadensis" ; Times: 1
+	Query: "mountain goat" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "corynorhinus townsendii" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Castor canadensis" ; Times: 3
+
+
+End of report.
