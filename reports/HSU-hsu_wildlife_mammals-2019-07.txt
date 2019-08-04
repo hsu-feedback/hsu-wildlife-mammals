@@ -1,0 +1,151 @@
+Report for Institution Code HSU, Resource hsu_wildlife_mammals
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 59
+Number of records retrieved in searches: 214
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 56
+	Country: Nepal ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 11
+	Date: 2019-07-08 ; Times: 5
+	Date: 2019-07-21 ; Times: 3
+	Date: 2019-07-19 ; Times: 1
+	Date: 2019-07-26 ; Times: 1
+	Date: 2019-07-25 ; Times: 2
+	Date: 2019-07-22 ; Times: 1
+	Date: 2019-07-01 ; Times: 2
+	Date: 2019-07-16 ; Times: 11
+	Date: 2019-07-29 ; Times: 1
+	Date: 2019-07-28 ; Times: 3
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-04 ; Times: 3
+	Date: 2019-07-14 ; Times: 1
+	Date: 2019-07-06 ; Times: 3
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-17 ; Times: 2
+	Date: 2019-07-23 ; Times: 6
+	Date: 2019-07-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:dipodomys class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:HSU" ; Times: 1
+	Query: "genus:onychomys class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:HSU" ; Times: 1
+	Query: "genus:Ammospermophilus specificepithet:harrisii" ; Times: 1
+	Query: "order:carnivora class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:HSU" ; Times: 1
+	Query: "genus:chaetodipus class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:HSU" ; Times: 1
+	Query: "class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:HSU" ; Times: 2
+	Query: "ocelot" ; Times: 2
+	Query: "genus:thomomys class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:HSU" ; Times: 1
+	Query: "genus:mus class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:HSU" ; Times: 1
+	Query: "genus:Sciurus specificepithet:aberti" ; Times: 1
+	Query: "class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:HSU" ; Times: 3
+	Query: "Lynx canadensis" ; Times: 3
+	Query: "class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:canadensis genus:lontra stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:otospermophilus order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:HSU" ; Times: 1
+	Query: "genus:vulpes class:Mammalia county:&#34;Imperial&#34; stateprovince:&#34;California&#34; institutioncode:HSU" ; Times: 1
+	Query: "order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:erminea genus:mustela stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "order:rodentia class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:HSU" ; Times: 1
+	Query: "Rocky mountain elk" ; Times: 1
+	Query: "genus:Saimiri specificepithet:sciureus" ; Times: 1
+	Query: "genus:castor class:Mammalia county:&#34;Imperial&#34; stateprovince:&#34;California&#34; institutioncode:HSU" ; Times: 1
+	Query: "order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:HSU" ; Times: 2
+	Query: "genus:Redunca" ; Times: 1
+	Query: "specificepithet:orca institutioncode:HSU" ; Times: 1
+	Query: "Panthera onca" ; Times: 5
+	Query: "genus:neotoma order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:HSU" ; Times: 1
+	Query: "class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:HSU" ; Times: 2
+	Query: "genus:scapanus class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:pennanti genus:Martes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:ammospermophilus class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:HSU" ; Times: 1
+	Query: "genus:neotoma class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:HSU" ; Times: 1
+	Query: "class:Mammalia county:&#34;Imperial&#34; stateprovince:&#34;California&#34; institutioncode:HSU" ; Times: 1
+	Query: "nutria" ; Times: 1
+	Query: "genus:perognathus class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:HSU" ; Times: 1
+	Query: "genus:dipodomys order:rodentia class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus class:mammalia county:&#34;suffolk&#34; stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "order:chiroptera class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:cunicularius genus:sylvilagus" ; Times: 2
+	Query: "genus:peromyscus class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:HSU" ; Times: 1
+	Query: "KORBEL Peromyscus" ; Times: 2
+	Query: "genus:Alcelaphus  specificepithet:buselaphus" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "genus:didelphis class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:HSU" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 47 (out of 985 download events in this period)
+Total number of records downloaded: 637
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 37
+	Country: Unknown ; Times: 1
+	Country: Peru ; Times: 6
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 5
+	Date: 2019-07-23 ; Times: 23
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-26 ; Times: 1
+	Date: 2019-07-25 ; Times: 4
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-10 ; Times: 2
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-05 ; Times: 2
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-07 ; Times: 1
+	Date: 2019-07-17 ; Times: 2
+	Date: 2019-07-31 ; Times: 1
+	Date: 2019-07-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:mephitis genus:mephitis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:macrotis genus:vulpes stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:vagrans genus:sorex stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 3
+	Query: "dipodomys microps" ; Times: 1
+	Query: "specificepithet:littoralis genus:Urocyon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "specificepithet:cinereoargenteus genus:Urocyon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:erminea genus:mustela stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:americana genus:Martes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:gracilis genus:spilogale stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:canadensis genus:ovis stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:canadensis genus:lontra stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Colorado&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:urocyon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:concolor genus:puma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lagidium peruanum" ; Times: 1
+	Query: "specificepithet:orca institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1981 year &lt;= 1985" ; Times: 1
+	Query: "class:Mammalia locality:Knight stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "specificepithet:pennanti genus:Martes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1976 year &lt;= 1980" ; Times: 2
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Arizona&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:taxus genus:taxidea stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+
+
+End of report.
