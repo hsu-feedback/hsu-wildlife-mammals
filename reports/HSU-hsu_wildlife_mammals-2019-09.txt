@@ -1,0 +1,135 @@
+Report for Institution Code HSU, Resource hsu_wildlife_mammals
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 95
+Number of records retrieved in searches: 311
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 77
+	Country: Thailand ; Times: 12
+	Country: United Kingdom ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 6
+	Date: 2019-09-20 ; Times: 1
+	Date: 2019-09-17 ; Times: 3
+	Date: 2019-09-10 ; Times: 3
+	Date: 2019-09-11 ; Times: 4
+	Date: 2019-09-12 ; Times: 11
+	Date: 2019-09-13 ; Times: 4
+	Date: 2019-09-26 ; Times: 2
+	Date: 2019-09-18 ; Times: 4
+	Date: 2019-09-19 ; Times: 1
+	Date: 2019-09-03 ; Times: 9
+	Date: 2019-09-02 ; Times: 1
+	Date: 2019-09-06 ; Times: 7
+	Date: 2019-09-05 ; Times: 18
+	Date: 2019-09-24 ; Times: 21
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:2919 institutioncode:HSU" ; Times: 1
+	Query: "Lasionycteris noctivagans haslength:1" ; Times: 1
+	Query: "catalognumber:1700 institutioncode:HSU" ; Times: 1
+	Query: "Peromyscus maniculatus 1990" ; Times: 1
+	Query: "Eumops perotis haslength:1" ; Times: 1
+	Query: "Lasiurus cinereus haslength:1" ; Times: 1
+	Query: "catalognumber:2197 institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:pennanti genus:martes stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "Neotoma cinerea" ; Times: 2
+	Query: "nigripes Mustela" ; Times: 5
+	Query: "gray fox" ; Times: 1
+	Query: "catalognumber:140 institutioncode:HSU" ; Times: 1
+	Query: "&#34;1700&#34; &#34;humboldt&#34;" ; Times: 1
+	Query: "specificepithet:gracilis genus:Spilogale hasmass:1 haslength:1" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 4
+	Query: "specificepithet:ursinus genus:Callorhinus hasmass:1 haslength:1" ; Times: 1
+	Query: "catalognumber:987 institutioncode:HSU" ; Times: 1
+	Query: "genus: Bassariscus hasmass:1 haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1973" ; Times: 2
+	Query: "Peromyscus maniculatus 1974" ; Times: 2
+	Query: "specificepithet:taxus genus:Taxidea hasmass:1 haslength:1" ; Times: 1
+	Query: "catalognumber:1111 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:158 institutioncode:HSU" ; Times: 1
+	Query: "Peromyscus maniculatus 1997" ; Times: 4
+	Query: "Myotis thysanodes haslength:1" ; Times: 1
+	Query: "vntype:specimen genus:odocoileus stateprovince:&#34;wyoming&#34; year &gt;= 1900 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Myotis evotis haslength:1" ; Times: 1
+	Query: "catalognumber:1546 institutioncode:HSU" ; Times: 3
+	Query: "Noctilio leporinus haslength:1" ; Times: 1
+	Query: "&#34;maple creek road&#34;" ; Times: 1
+	Query: "Myotis californicus haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1977" ; Times: 2
+	Query: "nivalis mustela" ; Times: 1
+	Query: "&#34;maple creek road&#34; &#34;humboldt&#34;" ; Times: 1
+	Query: "catalognumber:1701 institutioncode:HSU" ; Times: 1
+	Query: "Lasiurus blossevillii haslength:1" ; Times: 1
+	Query: "Panthera onca" ; Times: 10
+	Query: "catalognumber:1 institutioncode:HSU" ; Times: 6
+	Query: "specificepithet:astutus genus:Bassariscus hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:nivalis genus:Mustela hasmass:1 haslength:1" ; Times: 1
+	Query: "institutioncode:HSU" ; Times: 3
+	Query: "Chaerephon pumilus haslength:1" ; Times: 1
+	Query: "Myotis yumanensis haslength:1" ; Times: 1
+	Query: "Corynorhinus townsendii haslength:1" ; Times: 1
+	Query: "catalognumber:335 institutioncode:HSU" ; Times: 2
+	Query: "Microtus pennsylvanicus 2007" ; Times: 1
+	Query: "&#34;bliss ranch&#34;" ; Times: 1
+	Query: "Antrozous pallidus haslength:1" ; Times: 1
+	Query: "catalognumber:2190 institutioncode:HSU" ; Times: 2
+	Query: "Peromyscus maniculatus 1980" ; Times: 2
+	Query: "Peromyscus maniculatus 1985" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "Peromyscus maniculatus 1987" ; Times: 2
+	Query: "Peromyscus maniculatus 1986" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 1073 download events in this period)
+Total number of records downloaded: 3226
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-15 ; Times: 1
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-20 ; Times: 1
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-11 ; Times: 1
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-26 ; Times: 4
+	Date: 2019-09-19 ; Times: 1
+	Date: 2019-09-02 ; Times: 2
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 3
+	Date: 2019-09-04 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "urocitellus columbianus" ; Times: 1
+	Query: "institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:trinotatus genus:zapus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "specificepithet:torridus genus:Onychomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 2
+	Query: "eumops perotis" ; Times: 1
+	Query: "prairie vole" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:latimanus genus:scapanus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "order:Rodentia county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "specificepithet:pennanti genus:martes stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus" ; Times: 1
+
+
+End of report.
