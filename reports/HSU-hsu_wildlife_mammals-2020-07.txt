@@ -1,0 +1,95 @@
+Report for Institution Code HSU, Resource hsu_wildlife_mammals
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 48
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: India ; Times: 1
+	Country: United States ; Times: 8
+	Country: Bolivia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 2
+	Date: 2020-07-21 ; Times: 1
+	Date: 2020-07-02 ; Times: 2
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-17 ; Times: 3
+	Date: 2020-07-14 ; Times: 4
+	Date: 2020-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Jaguar" ; Times: 1
+	Query: "Bos grunniens" ; Times: 1
+	Query: "lontra canadensis pacifica" ; Times: 1
+	Query: "genus:Ursus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "genus:Antilocapra" ; Times: 3
+	Query: "silver haired bat" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "47000" ; Times: 2
+	Query: "Loxodonta basisofrecord:PreservedSpecimen" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 940 download events in this period)
+Total number of records downloaded: 698
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 11
+	Country: Colombia ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-22 ; Times: 3
+	Date: 2020-07-18 ; Times: 2
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-13 ; Times: 3
+	Date: 2020-07-03 ; Times: 1
+	Date: 2020-07-28 ; Times: 2
+	Date: 2020-07-30 ; Times: 2
+	Date: 2020-07-17 ; Times: 1
+	Date: 2020-07-21 ; Times: 7
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "bat year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "nasua nasua" ; Times: 2
+	Query: "cetacea" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Perognathus longimembris" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "specificepithet:heermanni genus:dipodomys" ; Times: 1
+	Query: "spotted skunk" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "genus:Puma" ; Times: 1
+	Query: "bat genus:Lasionycteris continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Nasua nasua" ; Times: 2
+	Query: "genus:Lasionycteris continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "bat genus:Lasionycteris noctivagans continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+
+
+End of report.
