@@ -1,0 +1,130 @@
+Report for Institution Code HSU, Resource hsu_wildlife_mammals
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 71
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Japan ; Times: 1
+	Country: South Korea ; Times: 3
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-21 ; Times: 3
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-16 ; Times: 7
+	Date: 2020-09-17 ; Times: 1
+	Date: 2020-09-25 ; Times: 1
+	Date: 2020-09-12 ; Times: 1
+	Date: 2020-09-13 ; Times: 3
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-26 ; Times: 2
+	Date: 2020-09-08 ; Times: 1
+	Date: 2020-09-07 ; Times: 2
+	Date: 2020-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:melampus genus:martes" ; Times: 2
+	Query: "scientificname:Panthera onca" ; Times: 1
+	Query: "cavia porcellus hasmass:1" ; Times: 1
+	Query: "genus:aplodontia county:&#34;mendocino&#34; stateprovince:&#34;california&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:ourebi genus:Ourebia" ; Times: 1
+	Query: "Mesocricetus auratus" ; Times: 3
+	Query: "kit fox" ; Times: 1
+	Query: "cavia porcellus genus:Cavia hasmass:1" ; Times: 1
+	Query: "specificepithet:nigripes genus:Mustela hasmass:1" ; Times: 2
+	Query: "northern flying squirrel" ; Times: 1
+	Query: "institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:ourebi genus:Ourebia" ; Times: 1
+	Query: "cheetah" ; Times: 1
+	Query: "specificepithet:americana genus:martes stateprovince:&#34;california&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:macrotis mutica genus:Vulpes hasmass:1" ; Times: 2
+	Query: "scientificname:Chinchilla chinchilla" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "specificepithet:melampus genus:martes basisofrecord:PreservedSpecimen" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 976 download events in this period)
+Total number of records downloaded: 3824
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 44
+	Country: United Kingdom ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 3
+	Date: 2020-09-21 ; Times: 2
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-17 ; Times: 7
+	Date: 2020-09-10 ; Times: 3
+	Date: 2020-09-24 ; Times: 7
+	Date: 2020-09-12 ; Times: 1
+	Date: 2020-09-13 ; Times: 1
+	Date: 2020-09-29 ; Times: 3
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-26 ; Times: 2
+	Date: 2020-09-18 ; Times: 7
+	Date: 2020-09-23 ; Times: 1
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-09 ; Times: 4
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-20 ; Times: 3
+	Date: 2020-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:merriami genus:dipodomys county:&#34;san bernardino&#34; stateprovince:&#34;California&#34; year &gt;= 1800 year &lt;= 1952" ; Times: 1
+	Query: "specificepithet:gibbsii genus:Neurotrichus" ; Times: 1
+	Query: "specificepithet:musculus genus:mus lengthtype:total length hasmass:1 haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus hasmass:1" ; Times: 1
+	Query: "Lepus americanus" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 2
+	Query: "sus scrofa continent:north america" ; Times: 1
+	Query: "specificepithet:concolor genus:puma continent:North America" ; Times: 1
+	Query: "specificepithet:moschatus genus:ovibos" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "Ourebia ourebi" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "Myocastor coypus continent:north america" ; Times: 1
+	Query: "specificepithet:lupus genus:canis continent:North America" ; Times: 1
+	Query: "specificepithet:townsendii genus:Corynorhinus hasmass:1" ; Times: 1
+	Query: "peromyscus eremicus" ; Times: 1
+	Query: "specificepithet:macrotis mutica genus:Vulpes hasmass:1" ; Times: 1
+	Query: "myotis californicus" ; Times: 3
+	Query: "genus:Martes specificepithet:americana*" ; Times: 2
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes" ; Times: 2
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "specificepithet:merriami genus:dipodomys county:&#34;los angeles&#34; stateprovince:&#34;California&#34; year &gt;= 1800 year &lt;= 1952" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus" ; Times: 1
+	Query: "institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "Aplodontia" ; Times: 1
+	Query: "specificepithet:americana genus:Martes" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Sylvilagus cunicularius mexico" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 2
+	Query: "panthera onca" ; Times: 2
+	Query: "specificepithet:canadensis genus:ovis" ; Times: 2
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "vntype:specimen class:mammalia stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:lagopus genus:vulpes" ; Times: 1
+	Query: "Aplodontia rufa vntype:specimen haslength:1" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:lupus genus:canis" ; Times: 1
+	Query: "family:Canidae hastissue:1" ; Times: 1
+
+
+End of report.
