@@ -1,0 +1,122 @@
+Report for Institution Code HSU, Resource hsu_wildlife_mammals
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 46
+Number of records retrieved in searches: 160
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: El Salvador ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 7
+	Country: Colombia ; Times: 4
+	Country: Kenya ; Times: 1
+	Country: Spain ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-26 ; Times: 2
+	Date: 2020-12-30 ; Times: 3
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-04 ; Times: 9
+	Date: 2020-12-22 ; Times: 1
+	Date: 2020-12-03 ; Times: 1
+	Date: 2020-12-01 ; Times: 5
+	Date: 2020-12-09 ; Times: 3
+	Date: 2020-12-07 ; Times: 1
+	Date: 2020-12-11 ; Times: 3
+	Date: 2020-12-05 ; Times: 4
+	Date: 2020-12-13 ; Times: 1
+	Date: 2020-12-14 ; Times: 8
+	Date: 2020-12-02 ; Times: 3
+	Date: 2020-12-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Martes melampus" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "scientificname:Zapus hudsonius stateprovince:new york" ; Times: 2
+	Query: "Phacochoerus" ; Times: 1
+	Query: "locality:Fort Worth stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:didelphis county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:HSU" ; Times: 1
+	Query: "scientificname:Procyon lotor" ; Times: 8
+	Query: "specificepithet:hemionus genus:Odocoileus hasmass:1" ; Times: 1
+	Query: "scientificname:Tamias striatus stateprovince:new york" ; Times: 2
+	Query: "sika deer" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus hasmass:1 hasmass:1" ; Times: 1
+	Query: "Equus caballus" ; Times: 1
+	Query: "Ovis dalli" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "white tail deer" ; Times: 4
+	Query: "specificepithet:americanus genus:Ursus haslength:1" ; Times: 1
+	Query: "locality:state game farm county:&#34;sacramento&#34;" ; Times: 1
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:HSU" ; Times: 1
+	Query: "indian squirrel" ; Times: 2
+	Query: "scientificname:Microtus pennsylvanicus stateprovince:new york" ; Times: 2
+	Query: "Cervus nippon" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus hasmass:1" ; Times: 1
+	Query: "scientificname:Panthera onca" ; Times: 4
+	Query: "Felis catus" ; Times: 1
+	Query: "Puma jaguarundi" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus haslength:1" ; Times: 1
+	Query: "locality:state game farm stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 705 download events in this period)
+Total number of records downloaded: 753
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 7
+	Country: United States ; Times: 10
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-28 ; Times: 1
+	Date: 2020-12-15 ; Times: 1
+	Date: 2020-12-16 ; Times: 1
+	Date: 2020-12-09 ; Times: 1
+	Date: 2020-12-08 ; Times: 1
+	Date: 2020-12-07 ; Times: 3
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-03 ; Times: 5
+	Date: 2020-12-02 ; Times: 4
+	Date: 2020-12-01 ; Times: 3
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:sciuridae" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "specificepithet:hemionus genus:Odocoileus hasmass:1" ; Times: 1
+	Query: "genus:Ondatra stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "genus:Lepus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Vulpes lagopus" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:HSU" ; Times: 1
+	Query: "genus:Martes specificepithet:americana*" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus haslength:1" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus hasmass:1" ; Times: 2
+	Query: "class:Mammalia locality:Mojave Desert" ; Times: 1
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:HSU" ; Times: 1
+	Query: "Lepus capensis" ; Times: 1
+	Query: "genus:Rangifer tarandus" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "Odobenus rosmarus" ; Times: 1
+	Query: "family:Felidae year &gt;= 2000 year &lt;= 2020" ; Times: 1
+
+
+End of report.
